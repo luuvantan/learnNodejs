@@ -1,0 +1,3 @@
+- Cài đăt module express-generator để generate một dự án Express.
+- Tích hợp nodemon để theo dõi output của app theo thời gian thực.
+- sử dụng template engine
